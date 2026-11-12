@@ -1,0 +1,9 @@
+{
+    "name": "WebHub",
+    "entry": "WebHub.dll",
+    "version": "1.0.0",
+    "type": "native",
+    "platform": "server",
+    "author": "wuw111",
+    "description": "服务器网页交互平台：网页账号体系 + 游戏数据查询 + 其它插件的网页接入能力"
+}
